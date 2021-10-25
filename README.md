@@ -1,6 +1,7 @@
 # Lab Analysis 2 - Damping and Energy Loss
+**this assignment is due at the beginning of your lab class the week of Nov 1**
 
-To accept this assignment: https://classroom.github.com/a/QT78e53L
+To accept this assignment: https://classroom.github.com/a/6l-Y7v4v
 
 
 This read me is adapted from [Jeremey Manning's Psych 32 Assignment Hello, World!](github.com/ContextLab/psyc32-hello-world/)
